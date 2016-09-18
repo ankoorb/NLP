@@ -1,0 +1,37 @@
+apostrophes = {		   "'s": ' is', 
+			   "'re": ' are', 
+			   "'ll": ' will', 
+			   "n't": ' not', 
+			   "nt": ' not',
+			   "'m": ' am',
+			   "whos": ' who is'
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
